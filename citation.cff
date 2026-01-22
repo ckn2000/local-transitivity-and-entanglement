@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this algorithm, please cite it."
+title: "Uniqueness Check for Primitive Points"
+abstract: "Implementation of certificate checks and computations for elliptic curves over Q"
+verion: 0.1.0
+date-released: 2026-01-24
+authors:
+  - family-names: Nguyen
+    given-names: Chi
+    orcid: "https://orcid.org/0009-0000-3622-5453"
+repository-code: "https://github.com/ckn2000/local-transitivity-and-entanglement.git"
+license: "MIT"
+keywords:
+  - elliptic curves
+  - Galois representations
+  - entanglement
+preferred-citation:
+  type: article
+  title: Local Transitivity and Entanglement Obstructions For Primitive Points
+  authors:
+    - family-names: Nguyen
+      given-names: Chi
+      orcid: "https://orcid.org/0009-0000-3622-5453"
+  year: 2026
+  url:
+  repository-code: "https://github.com/ckn2000/local-transitivity-and-entanglement.git"
+
