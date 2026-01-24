@@ -1,3 +1,3 @@
-# requirements.txt
-
-lmfdb-lite==0.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:661e5ddb69df7db2272f2ae372654255d837f3e35325dbba8c65104f118eca48
+size 36
