@@ -11,7 +11,7 @@ SageMath 10.4+.
 
 The main file is ```sufficient_criteria.ipynb``` in ```src/primitive_points```.
 
-Input is the image of the adelic Galois representation (can be computed using Zywina's algorithm and the level of the m-adic Galois representation) and the level of the m-adlic Galois representation (can be computed using Bourdon et al's algorithm).
+Input is the image of the adelic Galois representation (can be computed using Zywina's algorithm) and the level of the m-adlic Galois representation (can be computed using Bourdon et al's algorithm).
 
 ## Specs:
 These computations were done on an Apple Macbook Air (2022), with an M2 chip and 8GB of RAM.
